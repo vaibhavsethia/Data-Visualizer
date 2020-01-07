@@ -29,3 +29,48 @@ In the world of Big Data, data visualization tools and technologies are essentia
 
 ### Preview of various graphs available in the App
 
+#### Bar Graph
+
+![Bar Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/BarGraph.jpg)
+
+#### Pie Graph
+
+![Pie Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/PieGraph.jpg)
+
+#### Radial Graph
+
+![Radial Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/RadialGraph.jpg)
+
+#### Stack Bar Graph
+
+![stack Bar Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/StackBarGraph.jpg)
+
+#### Area Graph
+
+![Area Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/AreaGraph.jpg)
+
+#### Spread Area Graph
+
+![Spread Area Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/SpreadAreaGraph.jpg)
+
+#### Curve Graph
+
+![Curve Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/CurveGraph.jpg)
+
+#### Line Graph
+
+![Line Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/LineGraph.jpg)
+
+#### Scatter Graph
+
+![Scatter Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/ScatterGraph.jpg)
+
+#### Polar Graph
+
+![Polar Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/PolarGraph.jpg)
+
+#### Polar Area Graph
+
+![Polar Area Graph](https://github.com/vaibhavsethia/Data-Visualizer/blob/master/Images/PolarAreaGraph.jpg)
+
+
