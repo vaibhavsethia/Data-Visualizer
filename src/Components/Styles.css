@@ -1,0 +1,86 @@
+.animate-opacity{
+    animation:opac 2.3s
+}
+    @keyframes opac{
+        from{opacity:0} to{opacity:1}
+    }
+
+.img{
+    margin-left: 300px;    
+}
+
+.home{
+    margin-bottom:50px;
+}
+
+.bar1{
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom: 350px;
+}
+
+.input1{
+    margin-top: 30px;
+}
+
+.bar2{
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom:60px;
+}
+
+.pie{
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-bottom: 320px;
+}
+
+.input2{
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.input3{
+    margin-left: 280px;
+    margin-top: 20px;
+}
+
+.area1{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:140px;
+}
+
+.input4{
+    margin-left:30px;
+}
+
+.area2{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:10px;
+}
+
+.area3{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:170px;
+}
+
+.line{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:200px;
+}
+
+.scatter{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:400px;
+}
+
+.polar{
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:200px;
+}

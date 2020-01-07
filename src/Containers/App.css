@@ -1,0 +1,33 @@
+.App{
+  background-color: #7d795a;
+}
+.back1{
+  /* background-color: #75725d; */
+  transform: translateZ(10px);   
+  border-bottom: 5px solid gray; 
+}
+
+.text1:hover{
+  transform: scale(1.05);
+}
+
+.back2{
+  height: auto;
+  padding-left: 20px;
+  border-right: 1px solid gray; 
+}
+
+.back3{
+  background-color: #918f7a;
+  height: auto;
+}
+
+.back4{
+  border-top: 5px solid gray;   
+}
+
+.three:hover {
+  letter-spacing: 8px;
+  color:black;
+  transform: scale(1.2);
+}
